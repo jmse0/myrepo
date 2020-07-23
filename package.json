@@ -1,0 +1,12 @@
+{
+  "name": "ml02_project",
+  "version": "1.0.0",
+  "description": "프로젝트 디플로이",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jongmin Seo",
+  "license": "ISC"
+}
